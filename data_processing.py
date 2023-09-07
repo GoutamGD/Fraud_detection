@@ -8,3 +8,8 @@ c = a+b
 return a
 print("added a new function sum which is not correct")
 
+
+def mul (a,b):
+f = d*e 
+return f 
+print("added a new function mul which is not corrct")
